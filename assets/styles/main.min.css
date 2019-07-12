@@ -1348,7 +1348,7 @@
 .btn-brstyle-outline:active,.btn-brstyle-outline:focus,.btn-brstyle-outline:hover,.btn-brstyle-outline:visited{background:0 0;color:#333;border-color:#333}
 .isMobile .br-rsvp__nav.mobile-nav{border-color:#ecf0f1;background-color:rgba(255,255,255,.901961)}
 .isMobile .br-rsvp__nav.mobile-nav .navbar-nav>li>a,.isMobile .br-rsvp__nav.mobile-nav>.container .br-nav-brand{color:#333}
-.isMobile .br-rsvp__intro{background-image:url(../images/rsvp_background.jpg);background-repeat:no-repeat;background-position:50% 50%!important;background-size:cover;-moz-background-size:cover;-o-background-size:cover;-webkit-background-size:cover;display:block;width:100%}
+.isMobile .br-rsvp__intro{background-image:url(../images/rsvp_background.jpg);background-repeat:no-repeat;background-position:35% 50%!important;background-size:cover;-moz-background-size:cover;-o-background-size:cover;-webkit-background-size:cover;display:block;width:100%}
 .isMobile #about-us{background:#fff}
 .isMobile #greeting{background-color:#fff;padding:20px 0}
 .isMobile .br-rsvp__agenda{overflow:hidden;display:inline-block;height:100%;width:100%}

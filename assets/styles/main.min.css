@@ -1302,7 +1302,7 @@
 .btn-brstyle-outline.br-rsvp__intro_btn:hover,.btn-brstyle-outline.br-rsvp__intro_btn:visited{border:2px solid #649c47;background:#649c47;color:#fff!important}
 .background-img.blur{background-image:url(../images/rsvp_background-blur.jpg)}
 .br-rsvp__nav{background:0 0;border-bottom:1px solid rgba(255,255,255,0)}
-.navbar>.container .br-nav-brand{color:#fff;padding:10px 15px;cursor:pointer}
+.navbar>.container .br-nav-brand{color:black!important;padding:10px 15px;cursor:pointer}
 .navbar>.container .br-nav-brand .icon-br-logo{font-size:25px;margin-right:5px}
 .br-rsvp__nav .navbar-toggle:focus,.br-rsvp__nav .navbar-toggle:hover{background:0 0}
 .br-rsvp__nav .navbar-collapse,.br-rsvp__nav .navbar-form{background:rgba(255,255,255,.2)}
@@ -1470,7 +1470,7 @@
 .br-rsvp__intro_background .background-img.blur{opacity:0}
 .br-rsvp__social-media__img{width:400px}
 .br-rsvp__engagement-slider{margin-top:120px}section{padding:60px 0}#greeting{height:100vh}#greeting p{color:#333;font-size:130%;font-weight:500;}#about-us,#greeting{padding:0;background:0 0}#about-us{background:-moz-linear-gradient(top,rgba(255,255,255,0) 0,#fff 100%);background:-webkit-linear-gradient(top,rgba(255,255,255,0) 0,#fff 100%);background:linear-gradient(to bottom,rgba(255,255,255,0) 0,#fff 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#00ffffff', endColorstr='#ffffff', GradientType=0);display:block}#bridal-party .slick-slider{margin-top:110px}#registry{overflow:visible}
-.navbar>.container .br-nav-brand{color:#fff;padding:15px}
+.navbar>.container .br-nav-brand{color:black !important;padding:15px}
 .br-rsvp__intro_content{width:100%;max-width:530px;margin:auto}
 .br-rsvp__bride-and-groom{position:absolute;bottom:-100px;width:50%;margin-left:-30px}
 .br-rsvp__bride-and-groom_groom{right:-23%;float:left}

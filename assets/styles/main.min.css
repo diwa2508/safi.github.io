@@ -1307,7 +1307,7 @@
 .br-rsvp__nav .navbar-toggle:focus,.br-rsvp__nav .navbar-toggle:hover{background:0 0}
 .br-rsvp__nav .navbar-collapse,.br-rsvp__nav .navbar-form{background:rgba(255,255,255,.2)}
 .navbar-default .navbar-collapse,.navbar-default .navbar-form{border:0}
-.br-rsvp__nav .navbar-nav>li>a{color:#fff}
+.br-rsvp__nav .navbar-nav>li>a{color:black!important}
 .br-rsvp__nav .navbar-nav>li.br-rsvp__nav_link>a:hover{color:#7db660!important}
 .br-rsvp__nav .navbar-nav>.br-rsvp__nav_link.active,.br-rsvp__nav .navbar-nav>.br-rsvp__nav_link.active>a,.br-rsvp__nav .navbar-nav>.br-rsvp__nav_link.active>a:hover{background:0 0;color:#7db660!important;opacity:1}
 .br-rsvp__nav .navbar-nav>li>a.br-rsvp__rsvp-form_btn{color:#fff!important;padding:7px 18px;font-weight:700;background:#7db660;margin:10px 0 0 10px;border-radius:3px}

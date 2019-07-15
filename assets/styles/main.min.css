@@ -1493,7 +1493,8 @@
 .br-rsvp__form_guest-footer{width:970px}}@media only screen and (min-device-width:768px) and (max-device-width:1024px){.br-rsvp__bridalParty__filter{display:none}}
 
 #demo {
-   color: #4d3535;
+   margin-top: 23%;
+   color: #e1c63c;
    font-family: 'Alex Brush',myriad-pro,sans-serif,Helvetica Neue,Helvetica;
-   font-size: 35pt;
+   font-size: 25pt;
 }
